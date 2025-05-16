@@ -39,6 +39,12 @@ cd RustRecon
 cargo build --release
 ```
 
+## Demo
+
+<div align="center">
+  <img src="assets/demo.svg" alt="RustRecon demo" />
+</div>
+
 ## Quick Start
 
 ```bash
